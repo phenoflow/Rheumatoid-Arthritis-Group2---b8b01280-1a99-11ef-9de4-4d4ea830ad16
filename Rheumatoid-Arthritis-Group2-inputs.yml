@@ -1,0 +1,30 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/rheumatoid-arthritis-group2-joint---primary.py
+inputModule3:
+  class: File
+  path: python/juvenile-rheumatoid-arthritis-group2---primary.py
+inputModule4:
+  class: File
+  path: python/still-rheumatoid-arthritis-group2---primary.py
+inputModule5:
+  class: File
+  path: python/rheumatoid-arthritis-group2-spine---primary.py
+inputModule6:
+  class: File
+  path: python/rheumatoid-arthritis-group2---primary.py
+inputModule7:
+  class: File
+  path: python/other-rheumatoid-arthritis-group2---primary.py
+inputModule8:
+  class: File
+  path: python/rheumatoid-arthritis-group2-finger---primary.py
+inputModule9:
+  class: File
+  path: python/arthritis---primary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
